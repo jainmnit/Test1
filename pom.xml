@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>3f00347a-d80d-48df-98e8-a8b65d91fc61</groupId>
-	<artifactId>rtf-servicenow-sys-api</artifactId>
+	<artifactId>rtf-demo-api</artifactId>
 	<version>1.0.0-${buildNumber}</version>
 	<packaging>mule-application</packaging>
 
-	<name>rtf-dalwiden-assets-sys-api</name>
+	<name>rtf-njain-demo-api</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
